@@ -1,0 +1,15 @@
+bin/
+lib/
+build/
+
+### Visual Studio ###
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.csproj
+*.csproj.user
+
+### Visual Studio Code ###
+.vscode/
